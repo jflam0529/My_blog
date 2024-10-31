@@ -1,0 +1,20 @@
+[
+    {
+      "id": 1,
+      "title": "第一篇文章:如何开始学习编程",
+      "summary": "分享我进入编程世界的第一步，以及一些学习资源。",
+      "content": "在开始编程之前，我一直觉得这是一项非常复杂的技能，但随着深入学习，我发现有很多有趣且简单的起点。\n这篇文章主要分享我是如何入门编程的，为什么选择了 JavaScript 作为第一门语言，\n以及在学习过程中遇到的挑战和收获。\n推荐的学习资源包括：\n- FreeCodeCamp：互动式学习平台，非常适合初学者。\n- The Odin Project：从前端到后端的完整开发课程。\n- MDN Web Docs：最权威的开发者文档。"
+    },
+    {
+      "id": 2,
+      "title": "第二篇文章:React 和单页面应用(SPA)",
+      "summary": "探讨 React 及其在前端开发中的优势。",
+      "content": "React 是由 Facebook 开发的前端库，用于构建用户界面。我选择 React 的原因在于它的组件化思维，\n使开发过程变得更加模块化和高效。单页面应用（SPA）是现代 Web 开发中的一种趋势，\n它能够提升用户体验，避免页面刷新。本文介绍了如何搭建一个简单的 React 应用，\n以及如何在其中实现基本的路由功能。\n- 什么是 React 组件？\n- 如何使用 React Router 实现无刷新页面跳转？\n- 使用 React Hooks（如 useState 和 useEffect）管理组件状态。"
+    },
+    {
+        "id": 3,
+        "title": "从 0 到 1 搭建 Node.js 后端",
+        "summary": "介绍如何使用 Node.js 和 Express 创建简单的后端服务。",
+        "content": "本文详细介绍了如何使用 Node.js 和 Express 框架搭建一个基本的后端服务。\n在开发过程中，我学会了如何创建 API，并实现了与前端的交互。\nNode.js 允许我在 JavaScript 的环境下编写后端代码，这极大地简化了全栈开发。\n主要内容包括：\n- 初始化 Node.js 项目（package.json 的配置）。\n- 使用 Express 创建路由。\n- 如何处理跨域请求（CORS）。\n- 使用 Postman 测试 API。\n通过这篇文章，你也可以掌握如何快速搭建自己的后端服务，并与前端应用无缝集成。"
+      }
+]
