@@ -67,27 +67,6 @@ Welcome to the My Blog Project! This is a simple full-stack web application that
 - Leave comments and like the posts.
 - Use the navigation bar to explore different sections of the site.
 
-## Project Structure
-
-my-blog-project/
-│
-├── backend/
-│ ├── controllers/
-│ ├── routes/
-│ ├── models/ // If using a database
-│ ├── config.js
-│ └── index.js
-│
-├── src/
-│ ├── components/
-│ ├── pages/
-│ ├── App.css
-│ └── App.js
-│
-└── public/
-├── images/
-└── like.png
-
 
 ## Contributing
 
